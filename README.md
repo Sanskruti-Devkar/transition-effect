@@ -2,6 +2,8 @@
 
 A modern interactive project built to practice and understand CSS Transitions in a practical and visual way.
 
+Live Demo: https://sanskruti-devkar.github.io/transition-effect/
+
 This project demonstrates all major transition properties including:
 
 - transition-property
